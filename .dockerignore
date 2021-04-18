@@ -1,0 +1,16 @@
+# *.json
+*.jpg
+*.jpeg
+*.git
+*.key
+*.wav
+env
+images
+keynote-images
+
+# Python stuff
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+.pytest_cache
